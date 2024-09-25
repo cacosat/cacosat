@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello! 👋
+
+I'm Joaquin, trained in psychology, and interested in the intersection between information technologies and people (HCI), how they can enhance our capabilities and what is required to achieve real impact among users.
+
+Let's talk: jsateler1@uc.cl
 
 <!--
 **cacosat/cacosat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
