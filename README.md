@@ -4,6 +4,8 @@ I'm Joaquin, trained in psychology, and interested in the intersection between i
 
 Let's talk: jsateler1@uc.cl
 
+[Portfolio](http://cacosat.com) | [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-sateler-villanueva/)
+
 <!--
 **cacosat/cacosat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
